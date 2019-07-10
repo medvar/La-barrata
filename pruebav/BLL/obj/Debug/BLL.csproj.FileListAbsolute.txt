@@ -1,0 +1,7 @@
+c:\users\medvar\documents\visual studio 2015\Projects\pruebav\BLL\bin\Debug\BLL.dll
+c:\users\medvar\documents\visual studio 2015\Projects\pruebav\BLL\bin\Debug\BLL.pdb
+c:\users\medvar\documents\visual studio 2015\Projects\pruebav\BLL\bin\Debug\DAL.dll
+c:\users\medvar\documents\visual studio 2015\Projects\pruebav\BLL\bin\Debug\DAL.pdb
+c:\users\medvar\documents\visual studio 2015\Projects\pruebav\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\medvar\documents\visual studio 2015\Projects\pruebav\BLL\obj\Debug\BLL.dll
+c:\users\medvar\documents\visual studio 2015\Projects\pruebav\BLL\obj\Debug\BLL.pdb
